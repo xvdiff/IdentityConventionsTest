@@ -1,0 +1,5 @@
+C:\Users\dmeli\Desktop\asd\IdentityConventionsTest\bin\Debug\IdentityConventionsTest.dll
+C:\Users\dmeli\Desktop\asd\IdentityConventionsTest\bin\Debug\IdentityConventionsTest.pdb
+C:\Users\dmeli\Desktop\asd\IdentityConventionsTest\obj\Debug\IdentityConventionsTest.csprojResolveAssemblyReference.cache
+C:\Users\dmeli\Desktop\asd\IdentityConventionsTest\obj\Debug\IdentityConventionsTest.dll
+C:\Users\dmeli\Desktop\asd\IdentityConventionsTest\obj\Debug\IdentityConventionsTest.pdb
